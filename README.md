@@ -2,7 +2,11 @@
 
 	Finance Flow v1.1 is an Ai powered desktop version app designed to help users to track 	their daily expenses and maintain itemized spending records easily and suggest actions and 	ideas to maintain better savings. Built using the PySide6 GUI framework, this 	application aims to simplify personal finance management.  
 
-	In the future, the project will include AI and machine learning features to predict 	future expenditures and offer money-saving suggestions.  
+	In the future, the project will include AI and machine learning features to predict 	future expenditures and offer money-saving suggestions. 
+
+![app main](images/window_intro.png)
+
+
 ![app main](images/window_home.png)
 
 
